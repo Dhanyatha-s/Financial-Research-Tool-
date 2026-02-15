@@ -1,0 +1,24 @@
+pandas
+numpy
+openpyxl
+rapidfuzz
+python-dotenv
+langchain
+langchain-core
+langchain-groq
+groq
+pydantic
+pytesseract
+paddleocr
+pdf2image
+opencv-python
+Pillow
+tabulate
+fastapi
+unstructured
+uvicorn  
+chromadb 
+# gorg-python
+pdf2image
+sentence-transformers
+faiss-cpu
