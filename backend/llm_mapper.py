@@ -24,7 +24,7 @@ class LLMMapper:
     ALLOWED_SECTIONS = {"Revenue", "Expenses", "Profit", "Tax", "Equity", "General"}
 
     def __init__(self):
-        api_key = os.getenv("GROQ_API_KEY", "default_if_missing")
+        api_key = os.environ.get("GROQ_API_KEY", "default_if_missing")
         if not api_key:
             raise ValueError("GROQ_API_KEY not found")
 
@@ -184,4 +184,5 @@ class LLMMapper:
         if "equity" in label:
             return "Equity"
         return "General"
+
 
