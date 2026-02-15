@@ -16,7 +16,7 @@ pdf2image
 opencv-python
 Pillow
 pi-heif
-pdfminer.six
+# pdfminer.six
 pdfplumber
 
 # NLP & embeddings
@@ -32,3 +32,4 @@ pydantic
 
 # Environment
 python-dotenv
+
