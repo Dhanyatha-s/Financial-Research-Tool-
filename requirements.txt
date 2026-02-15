@@ -26,3 +26,4 @@ pandas
 openpyxl
 python-dotenv
 faiss-cpu
+pdfminer
