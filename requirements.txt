@@ -1,32 +1,34 @@
+# Core
+streamlit
+fastapi
+uvicorn
+
+# Data & Excel
 pandas
 numpy
 openpyxl
-rapidfuzz
-python-dotenv
-langchain
-langchain-core
-langchain-groq
-groq
-pydantic
+tabulate
+
+# OCR & PDFs
 pytesseract
 paddleocr
 pdf2image
 opencv-python
 Pillow
-tabulate
-fastapi
-unstructured
-uvicorn  
-chromadb 
-# gorg-python
-pdf2image
-sentence-transformers
-streamlit
-pandas
-openpyxl
-python-dotenv
-faiss-cpu
-pdfminer
-pdfminer.six
 pi-heif
-numpy
+pdfminer.six
+pdfplumber
+
+# NLP & embeddings
+rapidfuzz
+sentence-transformers
+langchain
+langchain-core
+langchain-groq
+groq
+chromadb
+faiss-cpu
+pydantic
+
+# Environment
+python-dotenv
