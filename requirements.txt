@@ -27,3 +27,6 @@ openpyxl
 python-dotenv
 faiss-cpu
 pdfminer
+pdfminer.six
+pi-heif
+numpy
