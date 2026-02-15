@@ -21,4 +21,8 @@ chromadb
 # gorg-python
 pdf2image
 sentence-transformers
+streamlit
+pandas
+openpyxl
+python-dotenv
 faiss-cpu
