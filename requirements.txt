@@ -33,3 +33,6 @@ pydantic
 # Environment
 python-dotenv
 
+unstructured[all]
+unstructured[local-inference]
+
